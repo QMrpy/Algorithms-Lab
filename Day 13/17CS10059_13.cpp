@@ -281,4 +281,5 @@ int main()
         */        
                 
         findMST(A,n);
+        return 0;
 }

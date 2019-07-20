@@ -342,7 +342,7 @@ int main()
         cout<<"INORDER TRAVERSAL\n";
         inorder(root);
         cout<<"\n";
-        
+        return 0;
         
            
 }

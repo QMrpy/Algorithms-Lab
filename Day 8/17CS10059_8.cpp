@@ -637,5 +637,5 @@ int main()
         
         cout<<"Closest pair : ("<<s3.mscore<<","<<s3.escore<<") and ("<<s4.mscore<<","<<s4.escore<<").\n";
         cout<<"Distance :"<<d2<<"\n";
-
+        return 0;
 }

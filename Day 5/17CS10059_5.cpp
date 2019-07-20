@@ -249,7 +249,7 @@ int main()
                 a.y=tempY;
                 findNN(H,m,a);
         }
-        
+        return 0;
         
         
         

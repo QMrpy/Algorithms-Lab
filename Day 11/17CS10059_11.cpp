@@ -190,5 +190,5 @@ int main()
                 cin>>d[i].pid>>d[i].sid;
      
         printschedule1(job,k,d,l);
-        
+        return 0;
 }

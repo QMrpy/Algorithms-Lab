@@ -182,7 +182,7 @@ int main() {
   cin>>t;
   cout<<"ANSWER using DP::"<<findmindaysfast(n,t)<<"\n";// complexity O((n*T)logT)
   cout<<"ANSWER without DP:"<<findmindaysfaster(n,t)<<"\n";//complexity O((n^2)log T), much better
-  
+  return 0;
   
   
 }

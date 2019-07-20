@@ -223,5 +223,5 @@ int main()
         }     */
         
         scheduler(jl,n);
-        
+        return 0;
 }

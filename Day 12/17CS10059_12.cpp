@@ -181,7 +181,7 @@ int main()
         findCritical (g,n);
         
         findCriticalfast(g,n);
-        
+        return 0;
 
         
 }

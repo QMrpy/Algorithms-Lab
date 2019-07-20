@@ -277,4 +277,5 @@ int main()
         }     
         
         schedule2(job,m,jid1);
+        return 0;
 }

@@ -245,6 +245,6 @@ int main()
         cout<<"\nInorder traversal after delete:\n";
         inorder(root);
         cout<<endl;
-    
+        return 0;
 }
 
