@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <stdlib.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 #define INF 1000000007
