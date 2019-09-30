@@ -5,6 +5,7 @@
 #include<stdlib.h>
 #include<string.h>
 #include<bits/stdc++.h>
+#include<time.h>
 using namespace std;
 
 int max(int a, int b)
